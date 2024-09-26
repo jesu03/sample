@@ -1,1 +1,1 @@
-cons.log("hello world");
+cons.log("hello");
